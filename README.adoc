@@ -1063,6 +1063,8 @@ Follow ``clojure.core``'s example for idiomatic names like `pred` and `coll`.
  ** `index`, `i` - integer index
  ** `x`, `y` - numbers
  ** `xs` - sequence
+ ** `es` - sequence of events
+ ** `ss` - sequence of signals
  ** `m` - map
  ** `k`, `ks` - key, keys
  ** `v`, `vs` - value, values (as in a key/value pair)
