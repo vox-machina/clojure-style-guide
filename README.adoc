@@ -1,3 +1,5 @@
+**Update:** We have added two items to the 'idiomatic names' which are relevant to our domain. ES = sequence of events and SS = sequence of signals.
+
 = The Clojure Style Guide
 :idprefix:
 :idseparator: -
